@@ -2,13 +2,14 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
-  font-weight:300;
+  font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#4d4d4d;
+  font-weight:400;
+  background: url('../photos/stardust.png');
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#FFFFFF;
   margin:0 0 20px;
 }
 
@@ -25,11 +26,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#FFFFFF;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#FFFFFF;
 }
 
 a {
