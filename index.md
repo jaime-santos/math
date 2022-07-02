@@ -1,22 +1,29 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
+#### Info.
 
-```
-$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-```
+ Hola! My name is Jaime Santos Rodríguez, I'm a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.de/), my mentor is [Prof. Dr. K.-T. Sturm](https://wt.iam.uni-bonn.de/sturm/home).
+Previously I was a Ph.D. student at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and a member
+of the [ICMAT](http://www.icmat.es). My adviser was [Prof. Luis Guijarro](http://www.uam.es/personal_pdi/ciencias/lguijarr/index-esp.html).
 
-If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
+#### Research
 
-### Designer Templates
-We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.
+I’m particularly interested in metric measure spaces that admit generalizations of lower curvature bounds (Sectional and Ricci). These spaces appear naturally as Gromov-Hausdorff limits of manifolds. My research focuses on their isometry groups and the effect of isometric Lie group actions on these spaces.
 
-### Rather Drive Stick?
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+#### Papers and preprints
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+- (with Luis Guijarro) "On the isometry groups of RCD*(K,N)-spaces" Manuscripta Math. (2018). [link](https://doi.org/10.1007/s00229-018-1010-7)
 
-### Support or Contact
-Having trouble with Pages? Check out the documentation at https://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
+- "Invariant measures and lower Ricci curvature bounds." Potential Analysis (2019). [link](https://link.springer.com/article/10.1007/s11118-019-09790-y)
+
+- "Isometric Rigidity of compact Wasserstein spaces." (submitted) [link](https://arxiv.org/abs/2102.08725)
+
+#### Talks
+
+- “Rigidity of Wasserstein isometries in closed Riemannian manifolds", Geometry and Topology Seminar, Durham University, UK, October 2020.
+- “Isometries of spaces with lower Ricci curvature bounds",Geometry Seminar, University of Jyväskylä, Finland,May 2020.
+- "On Wasserstein isometries of closed Riemannian manifolds." Workshop on Curvature and Global Shape, Münster,Germany. July 2019.
+- "Wasserstein isometries on the sphere" Second BYMAT conference. ICMAT, Madrid, Spain. May 2019.
+- "Metric measure spaces with lower Ricci cruvature bounds and its isometries." Thematic Programme "Optimal transport," ESI, Vienna, Austria. May 2019.
+
+
+
+
