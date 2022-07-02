@@ -1,6 +1,6 @@
-#### :bust_in_silhouette: Info.
+#### :bust_in_silhouette:  Info.
 
- Hola! My name is Jaime Santos Rodríguez, I'm a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.de/), my mentor is [Prof. Dr. K.-T. Sturm](https://wt.iam.uni-bonn.de/sturm/home).
+:bust_in_silhouette: Hola! My name is Jaime Santos Rodríguez, I'm a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.de/), my mentor is [Prof. Dr. K.-T. Sturm](https://wt.iam.uni-bonn.de/sturm/home).
  Previously I was a Ph.D. student at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and a member
  of the [ICMAT](http://www.icmat.es). My adviser was [Prof. Luis Guijarro](http://www.uam.es/personal_pdi/ciencias/lguijarr/index-esp.html).
 
