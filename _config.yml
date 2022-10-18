@@ -7,3 +7,4 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 gems:
   - jekyll-mentions
+  - jemoji
