@@ -9,11 +9,13 @@ I’m particularly interested in metric measure spaces that admit generalization
 
 #### Papers and preprints
 
- - (with Luis Guijarro) "On the isometry groups of RCD*(K,N)-spaces" Manuscripta Math. (2018). [link](https://doi.org/10.1007/s00229-018-1010-7)
+ - (with [Luis Guijarro](http://www.uam.es/personal_pdi/ciencias/lguijarr/index-esp.html)) "On the isometry groups of RCD*(K,N)-spaces" Manuscripta Math. (2018). [link](https://doi.org/10.1007/s00229-018-1010-7)
 
  - "Invariant measures and lower Ricci curvature bounds." Potential Analysis (2019). [link](https://link.springer.com/article/10.1007/s11118-019-09790-y)
 
- - "On isometries of compact $L^p-$Wasserstein spaces." Advances in Mathematics (2022) [link](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004492?via%3Dihub)
+ - "On isometries of compact L^p-Wasserstein spaces." Advances in Mathematics (2022) [link](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004492?via%3Dihub)
+ 
+ - (with [Sergio Zamora](http://personal.psu.edu/sxz38/)) "On the Fundamental groups of RCD spaces." (2022) arXiv preprint [link](https://arxiv.org/abs/2210.07275) 
 
 #### Talks
 
