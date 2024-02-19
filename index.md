@@ -20,7 +20,8 @@ I’m particularly interested in metric measure spaces that admit generalization
  
  - (with [Sergio Zamora](https://sites.google.com/view/zamora-math/)) "On the Fundamental groups of RCD spaces." Journal für die reine und angewandte Mathematik (Crelles Journal) (2023) [link](https://doi.org/10.1515/crelle-2023-0027)
     
- - (with [Qin Deng](https://www.math.toronto.edu/dengqin/),[Sergio Zamora](https://sites.google.com/view/zamora-math/), and [Xinrui Zhao](https://sites.google.com/view/xinrui-zhao/home) )"Margulis lemma on RCD(K,N) spaces." (2023) arXiv preprint [link](https://arxiv.org/abs/2308.15215) 
+ - (with [Qin Deng](https://www.math.toronto.edu/dengqin/),[Sergio Zamora](https://sites.google.com/view/zamora-math/), and [Xinrui Zhao](https://sites.google.com/view/xinrui-zhao/home) )"Margulis lemma on RCD(K,N) spaces." (2023) arXiv preprint [link](https://arxiv.org/abs/2308.15215)
+ - (with [Javier Casado](https://verso.mat.uam.es/web/index.php/es/directorio/26-pdef/358-casado-alvarez-javier), and [Manuel M. Cuerno](https://manuelcuerno.github.io/personalpage/) )"On the reach of isometric embeddings into Wasserstein type spaces" (2023) arXiv preprint [link](https://arxiv.org/abs/2307.01051)
 
 ## :mega: Talks
 
