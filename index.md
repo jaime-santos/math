@@ -18,7 +18,9 @@ I’m particularly interested in metric measure spaces that admit generalization
 
  - "On isometries of compact L^p-Wasserstein spaces." Advances in Mathematics (2022) [link](https://www.sciencedirect.com/science/article/abs/pii/S0001870822004492?via%3Dihub)
  
- - (with [Sergio Zamora](http://personal.psu.edu/sxz38/)) "On the Fundamental groups of RCD spaces." (2022) arXiv preprint [link](https://arxiv.org/abs/2210.07275) 
+ - (with [Sergio Zamora](https://sites.google.com/view/zamora-math/)) "On the Fundamental groups of RCD spaces." Journal für die reine und angewandte Mathematik (Crelles Journal) (2023) [link](https://doi.org/10.1515/crelle-2023-0027)
+    
+ - (with [Qin Deng](https://www.math.toronto.edu/dengqin/),[Sergio Zamora](https://sites.google.com/view/zamora-math/), and [Xinrui Zhao](https://sites.google.com/view/xinrui-zhao/home) )"Margulis lemma on RCD(K,N) spaces." (2023) arXiv preprint [link](https://arxiv.org/abs/2308.15215) 
 
 ## :mega: Talks
 
