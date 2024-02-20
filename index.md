@@ -6,7 +6,7 @@ Previously I was a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.d
 I did Ph.D. at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and I was a member
 of the [ICMAT](http://www.icmat.es). My adviser was [Prof. Luis Guijarro](http://www.uam.es/personal_pdi/ciencias/lguijarr/index-esp.html).
 
-## :computer: Research.
+## :computer: Research interests.
 
 I’m particularly interested in metric measure spaces that admit generalizations of lower curvature bounds (Sectional and Ricci). These spaces appear   naturally as Gromov-Hausdorff limits of manifolds. My research focuses on their isometry groups and the effect of isometric Lie group actions on these spaces.
 
@@ -21,9 +21,10 @@ I’m particularly interested in metric measure spaces that admit generalization
  - (with [Sergio Zamora](https://sites.google.com/view/zamora-math/)) "On the Fundamental groups of RCD spaces." Journal für die reine und angewandte Mathematik (Crelles Journal) (2023) [link](https://doi.org/10.1515/crelle-2023-0027)
     
  - (with [Qin Deng](https://www.math.toronto.edu/dengqin/),[Sergio Zamora](https://sites.google.com/view/zamora-math/), and [Xinrui Zhao](https://sites.google.com/view/xinrui-zhao/home) )"Margulis lemma on RCD(K,N) spaces." (2023) arXiv preprint [link](https://arxiv.org/abs/2308.15215)
+ 
  - (with [Javier Casado](https://verso.mat.uam.es/web/index.php/es/directorio/26-pdef/358-casado-alvarez-javier), and [Manuel M. Cuerno](https://manuelcuerno.github.io/personalpage/) )"On the reach of isometric embeddings into Wasserstein type spaces" (2023) arXiv preprint [link](https://arxiv.org/abs/2307.01051)
 
-## :mega: Talks
+## :mega: Selected talks.
 
  - “Rigidity of Wasserstein isometries in closed Riemannian manifolds", Geometry and Topology Seminar, Durham University, UK, October 2020.
  - “Isometries of spaces with lower Ricci curvature bounds",Geometry Seminar, University of Jyväskylä, Finland,May 2020.
