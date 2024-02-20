@@ -6,7 +6,11 @@ Previously I was a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.d
 I did Ph.D. at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and I was a member
 of the [ICMAT](http://www.icmat.es). My adviser was [Prof. Luis Guijarro](http://www.uam.es/personal_pdi/ciencias/lguijarr/index-esp.html).
 
-## :computer: Research interests.
+## :email: Contact:
+
+You can reach me at: jaime.santos [at] uam.es
+
+## :books: Research interests.
 
 I’m particularly interested in metric measure spaces that admit generalizations of lower curvature bounds (Sectional and Ricci). These spaces appear   naturally as Gromov-Hausdorff limits of manifolds. My research focuses on their isometry groups and the effect of isometric Lie group actions on these spaces.
 
