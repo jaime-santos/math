@@ -30,8 +30,10 @@ I’m particularly interested in metric measure spaces that admit generalization
 
 ## :mega: Selected talks.
 
+ - "Grupos fundamentales de espacios RCD", Congreso Bienal de la RSME-Pamplona, España 2024.
+ - "Lie group actions on RCD spaces", Geometry and Topology Seminar, Durham University, UK, 2023.
  - "On the fundamental groups of RCD spaces", Técnicas Modernas en Geometría riemanniana, UNAM, México 2023.
- - "On the fundamental groups of RCD spaces",  Geometry Day York-Durham-Leeds, York, United Kingdom 2023.
+ - "On the fundamental groups of RCD spaces",  Geometry Day York-Durham-Leeds, York, UK 2023.
  - "Isometrías en espacios de Wasserstein", Seminario Guillermo Torres de Geometría y Topología, UNAM, Mexico 2022.
  - "On isometries of curved metric measure spaces",BIRS-Workshop "Metric measure spaces with symmetry and lower Ricci curvature bounds", Oaxaca, México 2022.
  - “Rigidity of Wasserstein isometries in closed Riemannian manifolds", Geometry and Topology Seminar, Durham University, UK, October 2020.
