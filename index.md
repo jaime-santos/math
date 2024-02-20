@@ -6,7 +6,7 @@ Previously I was a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.d
 I did Ph.D. at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and I was a member
 of the [ICMAT](http://www.icmat.es). My adviser was [Prof. Luis Guijarro](http://www.uam.es/personal_pdi/ciencias/lguijarr/index-esp.html).
 
-## :email: Contact:
+## :incoming_envelope: Contact.
 
 You can reach me at: jaime.santos [at] uam.es
 
@@ -30,6 +30,10 @@ I’m particularly interested in metric measure spaces that admit generalization
 
 ## :mega: Selected talks.
 
+ - "On the fundamental groups of RCD spaces", Técnicas Modernas en Geometría riemanniana, UNAM, México 2023.
+ - "On the fundamental groups of RCD spaces",  Geometry Day York-Durham-Leeds, York, United Kingdom 2023.
+ - "Isometrías en espacios de Wasserstein", Seminario Guillermo Torres de Geometría y Topología, UNAM, Mexico 2022.
+ - "On isometries of curved metric measure spaces",BIRS-Workshop "Metric measure spaces with symmetry and lower Ricci curvature bounds", Oaxaca, México 2022.
  - “Rigidity of Wasserstein isometries in closed Riemannian manifolds", Geometry and Topology Seminar, Durham University, UK, October 2020.
  - “Isometries of spaces with lower Ricci curvature bounds",Geometry Seminar, University of Jyväskylä, Finland,May 2020.
  - "On Wasserstein isometries of closed Riemannian manifolds." Workshop on Curvature and Global Shape, Münster,Germany. July 2019.
