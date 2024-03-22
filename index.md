@@ -29,7 +29,7 @@ I’m particularly interested in metric measure spaces that admit generalization
  - (with [Javier Casado](https://verso.mat.uam.es/web/index.php/es/directorio/26-pdef/358-casado-alvarez-javier), and [Manuel M. Cuerno](https://manuelcuerno.github.io/personalpage/) )"On the reach of isometric embeddings into Wasserstein type spaces" (2023) arXiv preprint [link](https://arxiv.org/abs/2307.01051)
 
 ## :mega: Selected talks.
-
+ - "Symmetries of Wasserstein spaces" Virtual seminar on geometry with symmetries, online 2024.
  - "Grupos fundamentales de espacios RCD", Congreso Bienal de la RSME-Pamplona, España 2024.
  - "Lie group actions on RCD spaces", Geometry and Topology Seminar, Durham University, UK, 2023.
  - "On the fundamental groups of RCD spaces", Técnicas Modernas en Geometría riemanniana, UNAM, México 2023.
@@ -39,7 +39,6 @@ I’m particularly interested in metric measure spaces that admit generalization
  - “Rigidity of Wasserstein isometries in closed Riemannian manifolds", Geometry and Topology Seminar, Durham University, UK, October 2020.
  - “Isometries of spaces with lower Ricci curvature bounds",Geometry Seminar, University of Jyväskylä, Finland,May 2020.
  - "On Wasserstein isometries of closed Riemannian manifolds." Workshop on Curvature and Global Shape, Münster,Germany. July 2019.
- - "Wasserstein isometries on the sphere" Second BYMAT conference. ICMAT, Madrid, Spain. May 2019.
  - "Metric measure spaces with lower Ricci cruvature bounds and its isometries." Thematic Programme "Optimal transport," ESI, Vienna, Austria. May 2019.
 
 
