@@ -1,6 +1,8 @@
 ## :pushpin: Info.
 
-Hola! My name is Jaime Santos Rodríguez, I'm a Margarita Salas Fellow at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and at [Durham University](https://www.durham.ac.uk/departments/academic/mathematical-sciences/). 
+Hola! My name is Jaime Santos Rodríguez, I'm a Profesor Ayudante Doctor at the 
+Department of Applied Mathematics at the [Universidad Politécnica de Madrid](https://blogs.upm.es/dma/).
+Before that I was a Margarita Salas Fellow at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and at [Durham University](https://www.durham.ac.uk/departments/academic/mathematical-sciences/). 
 
 Previously I was a Postdoctoral Fellow at the [MPIM](https://www.mpim-bonn.mpg.de/), my mentor there was  [Prof. Dr. K.-T. Sturm](https://wt.iam.uni-bonn.de/sturm/home).
 I did Ph.D. at the [Universidad Autónoma de Madrid](http://verso.mat.uam.es/web/index.php/es/inicio) and I was a member
@@ -8,7 +10,7 @@ of the [ICMAT](http://www.icmat.es). My adviser was [Prof. Luis Guijarro](http:/
 
 ## :incoming_envelope: Contact.
 
-You can reach me at: jaime.santos [at] uam.es
+You can reach me at: jaime.santos [at] upm.es
 
 ## :books: Research interests.
 
