@@ -18,6 +18,8 @@ I’m particularly interested in metric measure spaces that admit generalization
 
 ## :page_facing_up: Papers and preprints.
 
+ - (with [Diego Corro](https://www.diegocorro.com/), and [Jesús Núñez-Zimbrón](https://www.jnzimbron.com/)) "Cohomogeneity one RCD spaces" (2024) arXiv preprint [link](https://arxiv.org/abs/2405.09448)
+
  - (with [Javier Casado](https://verso.mat.uam.es/web/index.php/es/directorio/26-pdef/358-casado-alvarez-javier), and [Manuel M. Cuerno](https://manuelcuerno.github.io/personalpage/) )"On the reach of isometric embeddings into Wasserstein type spaces" (2023) arXiv preprint [link](https://arxiv.org/abs/2307.01051)
 
  - (with [Qin Deng](https://www.math.toronto.edu/dengqin/),[Sergio Zamora](https://sites.google.com/view/zamora-math/), and [Xinrui Zhao](https://sites.google.com/view/xinrui-zhao/home) )"Margulis lemma on RCD(K,N) spaces." (2023) arXiv preprint [link](https://arxiv.org/abs/2308.15215)
