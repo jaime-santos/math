@@ -18,6 +18,8 @@ I’m particularly interested in metric measure spaces that admit generalization
 
 ## :page_facing_up: Papers and preprints.
 
+ - (with [Mauricio Che](https://sites.google.com/view/mauriciochemoguel/), [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), and [Martin Kerin](https://maths.dur.ac.uk/users/martin.p.kerin/) )  "Isometric Rigidity of Metric Constructions with respect to Wasserstein Spaces" (2024) arXiv preprint [link](https://arxiv.org/abs/2410.14648)
+
  - (with [Diego Corro](https://www.diegocorro.com/), and [Jesús Núñez-Zimbrón](https://www.jnzimbron.com/)) "Cohomogeneity one RCD spaces" (2024) arXiv preprint [link](https://arxiv.org/abs/2405.09448)
 
  - (with [Javier Casado](https://javiercasadoa.github.io/personalpage/), and [Manuel M. Cuerno](https://manuelcuerno.github.io/personalpage/) )"On the reach of isometric embeddings into Wasserstein type spaces"  J Geom Anal 34, 370 (2024) [link](https://doi.org/10.1007/s12220-024-01821-4)
