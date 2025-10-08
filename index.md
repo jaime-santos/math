@@ -17,7 +17,8 @@ You can reach me at: jaime.santos [at] upm.es
 I’m particularly interested in metric measure spaces that admit generalizations of lower curvature bounds (Sectional and Ricci). These spaces appear   naturally as Gromov-Hausdorff limits of manifolds. My research focuses on their isometry groups and the effect of isometric Lie group actions on these spaces.
 
 ## :page_facing_up: Papers and preprints.
-
+ - (with [Jesús Núñez-Zimbrón](https://www.jnzimbron.com/), and [Sergio Zamora](https://sites.google.com/view/zamora-math/) ) "Non-collapsed eGH convergence and dimension" (2025) arXiv preprint [link](https://arxiv.org/abs/2509.22821)
+   
  - (with [Mauricio Che](https://sites.google.com/view/mauriciochemoguel/), [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), and [Martin Kerin](https://maths.dur.ac.uk/users/martin.p.kerin/) )  "Isometric Rigidity of Metric Constructions with respect to Wasserstein Spaces" (2024) arXiv preprint [link](https://arxiv.org/abs/2410.14648)
 
  - (with [Diego Corro](https://www.diegocorro.com/), and [Jesús Núñez-Zimbrón](https://www.jnzimbron.com/)) "Cohomogeneity one RCD spaces" (2024) arXiv preprint [link](https://arxiv.org/abs/2405.09448)
@@ -48,6 +49,7 @@ I’m particularly interested in metric measure spaces that admit generalization
  - “Isometries of spaces with lower Ricci curvature bounds",Geometry Seminar, University of Jyväskylä, Finland,May 2020.
  - "On Wasserstein isometries of closed Riemannian manifolds." Workshop on Curvature and Global Shape, Münster,Germany. July 2019.
  - "Metric measure spaces with lower Ricci cruvature bounds and its isometries." Thematic Programme "Optimal transport," ESI, Vienna, Austria. May 2019.
+
 
 
 
